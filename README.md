@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-David Tsukamoto
-dtsukamoto@ucsd.edu
+David Tsukamoto and Ellie Wang
